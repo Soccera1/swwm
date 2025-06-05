@@ -1,0 +1,2 @@
+# swwm
+sxwm but wayland
